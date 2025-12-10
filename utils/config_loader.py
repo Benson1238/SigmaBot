@@ -33,7 +33,7 @@ def load_config(env_path: str = ".env") -> BotConfig:
 
     load_dotenv(env_path)
 
-    token = os.getenv("BOT_TOKEN")
+    token = os.getenv("MTQ0ODQzMDAyNDg0Njc0MTU2NQ.Gy6NSQ.kOqG3aP4LsAmaFu92w3dEO9pFf2fWIUSzDPhg0")
     channel_id = os.getenv("WELCOME_CHANNEL_ID")
     log_level = os.getenv("LOG_LEVEL", "INFO").upper()
 
