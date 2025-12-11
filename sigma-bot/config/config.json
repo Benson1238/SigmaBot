@@ -1,0 +1,22 @@
+{
+  "botStatus": "Managing tickets and support",
+  "products": [
+    {
+      "name": "Sigma Suite",
+      "description": "Full service package for server management and support automation.",
+      "price": "$29.99/mo"
+    },
+    {
+      "name": "Ticket Pro",
+      "description": "Advanced ticket tracking and response templates.",
+      "price": "$9.99/mo"
+    },
+    {
+      "name": "Support Essentials",
+      "description": "Lightweight tools for onboarding and role assignment.",
+      "price": "$4.99/mo"
+    }
+  ],
+  "ticketTag": "ticket",
+  "ticketCategoryName": "Support Tickets"
+}
